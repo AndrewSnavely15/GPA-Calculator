@@ -1,0 +1,50 @@
+          
+
+                   Winter 2017
+Class:      Units:       Grade
+PSCI 203       4          B+
+CSE 202        4          A
+NSCI 306       4          A
+ANTH 140       4          B-
+                                    Weighted GPA: 3.5
+-----------------------------------------------------------
+                   Spring 2017
+Class:      Units:       Grade
+CSE 313        4          C
+CSE 330        4          B+
+MATH 331       4          B+
+PHYS 222       5          B-
+                                    Weighted GPA: 2.81765
+-----------------------------------------------------------
+                     Fall 2017
+Class:      Units:       Grade
+CSE 310        5          A-
+CSE 455        4          A
+PHYS 223       5          B
+                                    Weighted GPA: 3.53571
+-----------------------------------------------------------
+                   Winter 2018
+Class:      Units:       Grade
+CSE 335        4          A
+CSE 460        4          A
+HUM 325        4          B
+MATH 262       4          A
+                                    Weighted GPA: 3.75
+-----------------------------------------------------------
+                   Spring 2018
+Class:      Units:       Grade
+CSE 401        5          B
+CSE 461        4          B+
+CSE 541        4          A
+PHYS 150       5          A-
+                                    Weighted GPA: 3.48333
+-----------------------------------------------------------
+
+                     Fall 2018
+Class:      Units:       Grade
+CSE 208        2          A
+CSE 535        4          A
+CSE 311        4          A
+                                    Weighted GPA: 4
+-----------------------------------------------------------
+ 
